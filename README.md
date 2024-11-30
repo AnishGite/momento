@@ -15,4 +15,4 @@ Future Updates
 
 Disclaimer-
 
-The entire code is written by me and I have taken refrence and inspiration from Pintrest and Canva but some of the code was made with help of ai.
+The entire code is written by me and I have taken refrence and inspiration from Pintrest and Canva but some of the code was made with the help of ai.
